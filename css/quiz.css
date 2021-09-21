@@ -1,0 +1,21 @@
+td{
+    width:100px;
+    height:80px;
+    color:black;
+    font-weight:bolder;
+    border:1px solid gray;
+    text-align:center;
+    vertical-align: middle;
+}
+.class1{
+    background-color:lightblue;
+}
+.class2{
+    background-color:lightyellow;
+}
+.class3{
+    background-color:lightpink;
+}
+table{
+    display:table;
+}
